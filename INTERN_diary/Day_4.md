@@ -17,9 +17,7 @@
 - ได้เรียนรู้การใช้ github ในการบันทึกการฝึกงานจากการโน๊ตลงสมุด มาเป็นการบันทึกลงใน Github แทน ซึ่งมันดีมากๆ เพราะเก็บไว้นานแค่ไหนก็สามารถกลับมาเปิดดูได้
 - ขั้นตอนการสลับเวอร์ชั่น flutter
 
----bash
-
-  https://karthikponnam.medium.com/flutter-downgrade-any-version-57927705b9e8 
+<pre> ```bash https://karthikponnam.medium.com/flutter-downgrade-any-version-57927705b9e8 ``` </pre>
   
 ---
 
