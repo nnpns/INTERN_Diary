@@ -23,6 +23,8 @@
   https://www.youtube.com/watch?v=9i0c5TvPoPc&list=PLBt8Du9dZwKOPG4r2D0d02fstHiOzHsG_
 ---
 - เรียนรู้การ clone project จาก github ไปที่ vscode
+- Riverpod คือเครื่องมือช่วยจัดการข้อมูลหรือสถานะ (State) ของแอป Flutter ให้แยกออกจาก UI
+  ทำให้โค้ดของคุณเป็นระเบียบ อ่านง่าย และทดสอบง่ายขึ้น
 
 ---bash
 
